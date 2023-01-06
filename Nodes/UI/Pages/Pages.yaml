@@ -15,7 +15,7 @@ Children:
     Type: BaseVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 340.0
+    Value: 360.0
   - Name: GroupBoxRed1
     Type: GroupBoxRed
     Children:
@@ -178,7 +178,7 @@ Children:
     Type: BaseVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 340.0
+    Value: 360.0
   - Name: LeftMargin
     Type: BaseVariableType
     DataType: Size
@@ -270,7 +270,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 10.0
+      Value: 20.0
   - Name: GroupBoxBlue2
     Type: GroupBoxBlue
     Children:
@@ -316,7 +316,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 230.0
+      Value: 240.0
   - Name: GroupBoxBlue3
     Type: GroupBoxBlue
     Children:
@@ -362,7 +362,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 120.0
+      Value: 130.0
 - Name: PageGreen
   Id: g=fb53c07c2f64b999849c9cf9d3e41a90
   Supertype: Panel
@@ -377,7 +377,7 @@ Children:
     Type: BaseVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 340.0
+    Value: 360.0
   - Name: LeftMargin
     Type: BaseVariableType
     DataType: Size
@@ -479,7 +479,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 120.0
+      Value: 130.0
   - Name: GroupBoxGreen3
     Type: GroupBoxGreen
     Children:
@@ -525,7 +525,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 230.0
+      Value: 240.0
 - Name: MainPage
   Id: g=60c1b458fbf866b97d8ceb8c1c9d37d3
   Supertype: Panel
